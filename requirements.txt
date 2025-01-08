@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+langchain>=0.0.240
+langchain-community
+google-generativeai
+PyPDF2
+faiss-cpu
